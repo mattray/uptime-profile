@@ -1,0 +1,10 @@
+name: uptime
+title: Uptime profile
+maintainer: Matt Ray
+copyright: Chef Software, Inc.
+copyright_email: matt@chef.io
+license: Apache-2.0
+summary: A trivial InSpec Compliance profile that checks if a machine has been up for an hour.
+version: 0.1.0
+supports:
+  os-family: linux
